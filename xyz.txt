@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Website</title>
+</head>
+
+<body style="font-family: Arial; text-align: center; background-color: lightblue;">
+
+    <h1>Welcome to My Website!</h1>
+
+    <p>This is my first simple HTML website.</p>
+
+    <h2>About Me</h2>
+    <p>Hello! My name is Alex. I am learning HTML.</p>
+
+    <h2>My Hobbies</h2>
+    <ul style="display: inline-block; text-align: left;">
+        <li>Playing games</li>
+        <li>Watching movies</li>
+        <li>Listening to music</li>
+    </ul>
+
+    <br>
+
+    <button onclick="alert('Hello! Thanks for visiting!')">
+        Click Me
+    </button>
+
+</body>
+</html>
