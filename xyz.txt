@@ -13,6 +13,7 @@
 
     <h2>About Me</h2>
     <p>Hello! My name is Alex. I am learning HTML.</p>
+<p>this is the second change</p>
 
     <h2>My Hobbies</h2>
     <ul style="display: inline-block; text-align: left;">
