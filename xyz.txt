@@ -9,6 +9,7 @@
     <h1>Welcome to My Website!</h1>
 
     <p>This is my first simple HTML website.</p>
+<p>hello my nmae is prisha and i am a nice girl</p>
 
     <h2>About Me</h2>
     <p>Hello! My name is Alex. I am learning HTML.</p>
